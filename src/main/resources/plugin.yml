@@ -1,0 +1,4 @@
+name: ElementAPI
+version: 0.0.2
+main: io.github.mkaksoy.elementapi.Main
+api-version: 1.21.1
