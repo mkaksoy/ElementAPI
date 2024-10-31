@@ -5,7 +5,7 @@
 
     <groupId>io.github.mkaksoy</groupId>
     <artifactId>ElementAPI</artifactId>
-    <version>alpha-0.0.2</version>
+    <version>beta-0.1.0</version>
     <packaging>jar</packaging>
 
     <properties>

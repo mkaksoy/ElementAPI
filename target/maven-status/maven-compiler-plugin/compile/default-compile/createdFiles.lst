@@ -1,1 +1,5 @@
+io\github\mkaksoy\elementapi\api\logger\Logger.class
+io\github\mkaksoy\elementapi\api\logger\LogType.class
+io\github\mkaksoy\elementapi\api\player\PlayerUtil.class
+io\github\mkaksoy\elementapi\api\logger\Logger$1.class
 io\github\mkaksoy\elementapi\Main.class
